@@ -13,6 +13,11 @@ gui: GUI for Hellabyte File System (HBFS)
 
 linux: Hellabyte File System (HBFS) for Linux
 
+loopback: windows based
+          linix dd-based
+
+testsuite:
+
 
 License: GPLv3 
 
